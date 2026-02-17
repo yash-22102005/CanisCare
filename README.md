@@ -90,4 +90,3 @@ In the GUI, click `Load Image from Disk` to choose an input image. The app will 
 - For questions or collaboration, contact the repository owner.
 
 ---
-Generated README for the CanisCare Dog Skin Disease Classifier.
